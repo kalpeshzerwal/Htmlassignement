@@ -37,7 +37,47 @@
 .container-fluid{
 	width:100%;
 }
+.videolayercolor{
+  background: #F8F8FF;
+}
 .video-content{
 	font-size:18px;
 	text-align: center;
 }
+.about-text{
+	text-align: center;
+	color: #4390d1;
+}
+.about-paragraph{
+	text-align: justify;
+  font-size: 16px;
+  color: #696969;
+  clear: left;
+}
+.footer{
+	margin-top: 20px;
+  background: #d6d6d6;
+}
+.btn-info{
+	margin-top: 25px;
+  margin-bottom: 30px;
+}
+.social-links  li {
+    float: left;
+    padding: 8px;
+    text-align: center;
+}
+.fa{
+    font: normal normal normal 14px/1 FontAwesome;
+  } 
+  .footer-data ul {
+    list-style: none;
+    padding-left: 1px;
+  }
+  .footer-data .links ul li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .links{
+  	padding-right: 5px;
+  }
